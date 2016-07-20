@@ -1,5 +1,5 @@
 ﻿# comment 
-*.txt
+tempFile.txt
 .DS_Store
 *.zip
 *.gz
